@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lili2090
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Lisbeth
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, my email is prlisbeth29@gmail.com
 
