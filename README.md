@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lisbeth
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in QA
+- 🌱 I’m currently learning manual QA testing and working on expanding my skills in automation
+- 💞️ I’m looking to collaborate on QA projects, bug reproduction, and improving test processes.
 - 📫 How to reach me, my email is prlisbeth29@gmail.com
 
 <!---
